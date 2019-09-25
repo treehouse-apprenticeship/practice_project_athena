@@ -1,5 +1,5 @@
 # Yvonne Martinez
 
-*Favorite food:* Lucky Charms
+*Favorite food:* Honey Combs
 
-*Best friend:* Elise
+*Best friend:* Maggie
