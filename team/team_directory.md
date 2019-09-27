@@ -1,6 +1,8 @@
 # My Team
 * [Dave McFarland](dave_mcfarland.md)
 
+* [Mariah Rojas](mariah_rojas.md)
+
 * [Kiyana Mcmorris](kiy_mcmorris.md)
 
 * [Elise Bucciarelli](elise_bucciarelli.md)
@@ -10,6 +12,7 @@
 * [Maggie Santos](maggie_santos.md)
 
 * [Juan Nunez](juan_nunez.md)
+
 
 
 
