@@ -14,3 +14,5 @@
 * [Maggie Santos](maggie_santos.md)
 
 * [Juan Nunez](juan_nunez.md)
+
+* [Jacob Rosario](jacob_rosario.md)
