@@ -16,3 +16,6 @@
 * [Juan Nunez](juan_nunez.md)
 
 * [Jacob Rosario](jacob_rosario.md)
+
+* [Maliha Taufiq](maliha_taufiq.md)
+
