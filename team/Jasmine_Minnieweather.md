@@ -1,2 +1,2 @@
 # Jasmine Minnieweather
-*Favorite food:* Razzoos
+*Favorite food:* spicy fried rice with chicken
