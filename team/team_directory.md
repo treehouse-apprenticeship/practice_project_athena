@@ -27,3 +27,5 @@
 * [Michelle Tyson](michelle_tyson.md)
 
 * [Tristan Young](tristan_young.md)
+
+* [Titus  Olowe](titus_olowe.md)
