@@ -22,4 +22,4 @@
 * [Nabila Taufiq](nabila_taufiq.md)
 * [Rhonda Laurence](rhonda_laurence.md)
 
-* [Jasmine_Minnieweather](jasmine_minnieweather.md)
+* [Jasmine Minnieweather](jasmine_minnieweather.md)
