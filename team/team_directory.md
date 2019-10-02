@@ -25,3 +25,5 @@
 * [Jasmine Minnieweather](jasmine_minnieweather.md)
 
 * [Michelle Tyson](michelle_tyson.md)
+
+* [Tristan Young](tristan_young.md)
