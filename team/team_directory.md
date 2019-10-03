@@ -49,5 +49,5 @@
 
 - [Lucretia Hallman](lucretia_hallman.md)
 
--[Carla Houston](carla_houston.md)
-[Carla Houston](carla_houston.md)
+- [Carla Houston](carla_houston.md)
+
