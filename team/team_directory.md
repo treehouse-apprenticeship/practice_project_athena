@@ -1,38 +1,46 @@
 # My Team
-* [Dave McFarland](dave_mcfarland.md)
 
-* [Yvonne Martinez](yvonne_martinez.md)
+- [Dave McFarland](dave_mcfarland.md)
 
-* [Mariah Rojas](mariah_rojas.md)
+- [Yvonne Martinez](yvonne_martinez.md)
 
-* [Kiyana Mcmorris](kiy_mcmorris.md)
+- [Mariah Rojas](mariah_rojas.md)
 
-* [Elise Bucciarelli](elise_bucciarelli.md)
+- [Kiyana Mcmorris](kiy_mcmorris.md)
 
-* [Eyanjem Etta-Ashu](Eyanjem_etta-ashu.md)
+- [Elise Bucciarelli](elise_bucciarelli.md)
 
-* [Maggie Santos](maggie_santos.md)
+- [Eyanjem Etta-Ashu](Eyanjem_etta-ashu.md)
 
-* [Juan Nunez](juan_nunez.md)
+- [Maggie Santos](maggie_santos.md)
 
-* [Urenwa Nwokiwu](urenwa_nwokiwu.md)
+- [Juan Nunez](juan_nunez.md)
 
-* [Jacob Rosario](jacob_rosario.md)
+- [Urenwa Nwokiwu](urenwa_nwokiwu.md)
 
-* [Maliha Taufiq](maliha_taufiq.md)
+- [Jacob Rosario](jacob_rosario.md)
 
-* [Nabila Taufiq](nabila_taufiq.md)
-* [Rhonda Laurence](rhonda_laurence.md)
+- [Maliha Taufiq](maliha_taufiq.md)
 
-* [Jasmine Minnieweather](jasmine_minnieweather.md)
+- [Nabila Taufiq](nabila_taufiq.md)
+- [Rhonda Laurence](rhonda_laurence.md)
 
-* [Michelle Tyson](michelle_tyson.md)
+- [Jasmine Minnieweather](jasmine_minnieweather.md)
 
-* [Tristan Young](tristan_young.md)
+- [Michelle Tyson](michelle_tyson.md)
 
-* [Titus  Olowe](titus_olowe.md)
+- [Tristan Young](tristan_young.md)
 
-* [Jasmine Taylor](jasmine_taylor.md)
+- [Titus Olowe](titus_olowe.md)
 
-* [Susanna Lettieri](susanna_lettieri.md)
+- [Jasmine Taylor](jasmine_taylor.md)
 
+- [Susanna Lettieri](susanna_lettieri.md)
+
+- [Sonya Youngblood](sonya2.md)
+
+- [Alex Lujan ](alex_lujuan.md)
+
+- [Courtney Luc](courtney_luc.md)
+
+- [Jolaolu Babalou](jolaolu_babalou.md)
