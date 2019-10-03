@@ -44,3 +44,5 @@
 - [Courtney Luc](courtney_luc.md)
 
 - [Jolaolu Babalou](jolaolu_babalou.md)
+
+- [Lucretia Hallman](lucretia_hallman.md)
