@@ -34,3 +34,5 @@
 
 * [Jasmine Taylor](jasmine_taylor.md)
 
+* [Susanna Lettieri](susanna_lettieri.md)
+
