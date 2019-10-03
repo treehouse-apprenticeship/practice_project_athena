@@ -15,6 +15,8 @@
 
 * [Juan Nunez](juan_nunez.md)
 
+* [Urenwa Nwokiwu](urenwa_nwokiwu.md)
+
 * [Jacob Rosario](jacob_rosario.md)
 
 * [Maliha Taufiq](maliha_taufiq.md)
@@ -29,3 +31,8 @@
 * [Tristan Young](tristan_young.md)
 
 * [Titus  Olowe](titus_olowe.md)
+
+* [Jasmine Taylor](jasmine_taylor.md)
+
+* [Susanna Lettieri](susanna_lettieri.md)
+
