@@ -45,7 +45,7 @@
 
 - [Jolaolu Babalou](jolaolu_babalou.md)
 
-- [Precious Chukwuemeka](Precious_chukwuemeka.md)
+- [Precious Chukwuemeka](Precious_Chukwuemeka.md)
 
 - [Lucretia Hallman](lucretia_hallman.md)
 
