@@ -29,3 +29,6 @@
 * [Tristan Young](tristan_young.md)
 
 * [Titus  Olowe](titus_olowe.md)
+
+* [Jasmine Taylor](jasmine_taylor.md)
+
