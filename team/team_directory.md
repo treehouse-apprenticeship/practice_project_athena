@@ -36,4 +36,3 @@
 
 * [Susanna Lettieri](susanna_lettieri.md)
 
-* [Jennifer Parker](jennifer_parker.md)
