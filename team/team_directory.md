@@ -15,6 +15,8 @@
 
 * [Juan Nunez](juan_nunez.md)
 
+* [Urenwa Nwokiwu](urenwa_nwokiwu.md)
+
 * [Jacob Rosario](jacob_rosario.md)
 
 * [Maliha Taufiq](maliha_taufiq.md)
