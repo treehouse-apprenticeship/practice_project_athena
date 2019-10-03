@@ -2,4 +2,4 @@
 
 *Favorite food:* Honey Combs
 
-*Best friend:* Maggie
+*Best friend:* Maggie 
