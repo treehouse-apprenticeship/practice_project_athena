@@ -52,3 +52,11 @@
 - [Carla Houston](carla_houston.md)
 
 - [Jennifer Parker](jennifer_parker.md)
+
+- [Quster Bicar](quster_bicar.md)
+
+- [Karen Alvarado](karen_alvarado.md)
+
+- [Judith George](judith_george.md)
+
+- [Justice](justice_trent.md)
